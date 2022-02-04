@@ -1,6 +1,6 @@
-var title = "紫剑阁";
-var user = "紫剑真人";
-var icp = "浙ICP备88888888号-8";
+var title = "";
+var user = "";
+var icp = "";
 var pins = [
     {
         txt: "百度",
